@@ -5,3 +5,5 @@ while new_counter > 0:
 while new_counter == 0:
   break
 print("Boom!")
+
+#need to continue production, also need to find how to collect gists...
