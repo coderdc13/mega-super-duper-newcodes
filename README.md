@@ -10,3 +10,5 @@ Given these points, let's do awesome things together!!!
 how did I upload from repl.it? do not know...
 
 update blockchain project by making 'how it works' slides
+
+06 08 2018 0316EDT Capitals Win Stanley Cup!!!
