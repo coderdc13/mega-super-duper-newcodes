@@ -12,3 +12,5 @@ how did I upload from repl.it? do not know...
 update blockchain project by making 'how it works' slides
 
 06 08 2018 0316EDT Capitals Win Stanley Cup!!!
+
+06 12 2018 0241EDT Capitals Parade
