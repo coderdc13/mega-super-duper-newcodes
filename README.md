@@ -16,3 +16,5 @@ update blockchain project by making 'how it works' slides
 06 12 2018 0241EDT Capitals Parade
 
 06 13 2018 1317EDT keep going, prep for conferences...
+
+06 17 2018 1251EDT Vancouver BC plans!!!
