@@ -18,3 +18,5 @@ update blockchain project by making 'how it works' slides
 06 13 2018 1317EDT keep going, prep for conferences...
 
 06 17 2018 1251EDT Vancouver BC plans!!!
+
+06 19 2018 0127EDT two projects one is nato then ghmbhk
