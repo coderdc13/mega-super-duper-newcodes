@@ -32,3 +32,6 @@ update blockchain project by making 'how it works' slides
 07 04 2018 1912EDT continue blockchain, start w reviewing slides...
 
 07 07 2018 0651EDT set up for classes...
+
+07 12 2018 1644EDT prep for major opportunity NOW!!!
+
