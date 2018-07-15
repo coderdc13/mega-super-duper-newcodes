@@ -35,3 +35,5 @@ update blockchain project by making 'how it works' slides
 
 07 12 2018 1644EDT prep for major opportunity NOW!!!
 
+07 15 2018 0902EDT pizza later...
+
