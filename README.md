@@ -37,3 +37,4 @@ update blockchain project by making 'how it works' slides
 
 07 15 2018 0902EDT pizza later...
 
+07 19 2018 0045EDT stacked too much maybe?
